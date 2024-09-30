@@ -1,0 +1,10 @@
+	:	+1 Carte spectrale quand utilisé 2 fois.
+	:	+1 Emplacement joker quand utilisé 2 fois.
+	:	Crée un tag aléatoire.
+	:	Ajoute une édition (vanilla) aléatoire sur les cartes planètes tenues en main.
+	:	+1 Carte code
+	:	+1 Carte spectrale améliorée quand utilisé deux fois.
+	:	+3$ par consommable tenu en main.
+	:	+4$ par joker tenu en main.
+	:	+1 Carte jouable aléatoire.
+        :	+1 Taille de main.
