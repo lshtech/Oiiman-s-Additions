@@ -25,6 +25,14 @@ local conditionalcard = {
     can_stack = true,
     can_divide = true
 }
+SMODS.UndiscoveredSprite{
+    atlas = 'conditional',
+    key = 'Conditionalcard',
+    pos = {
+        x = 0,
+        y = 0,
+    },
+}
 local conditionalcard_atlas = {
     object_type = "Atlas",
     key = "conditional",

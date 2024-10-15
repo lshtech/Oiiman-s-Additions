@@ -24,6 +24,14 @@ local itemcard = {
     can_stack = true,
     can_divide = true
 }
+SMODS.UndiscoveredSprite{
+    atlas = 'itemcardatlas',
+    key = 'Itemcard',
+    pos = {
+        x = 0,
+        y = 0,
+    },
+}
 local itemcard_atlas = {
     object_type = "Atlas",
     key = "itemcardatlas",

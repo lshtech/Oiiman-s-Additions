@@ -26,6 +26,14 @@ local enhancedspectrals = {
     can_stack = true,
     can_divide = true
 }
+SMODS.UndiscoveredSprite{
+    atlas = 'enhanced',
+    key = 'Enhancedspectrals',
+    pos = {
+        x = 0,
+        y = 0,
+    },
+}
 local enhancedspectrals_atlas = {
     object_type = "Atlas",
     key = "enhanced",

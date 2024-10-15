@@ -14,6 +14,14 @@ local hyperplanet = {
     can_stack = true,
     can_divide = true
 }
+SMODS.UndiscoveredSprite{
+    atlas = 'exphyperplanet',
+    key = 'hyperplanet',
+    pos = {
+        x = 0,
+        y = 0,
+    },
+}
 local exphyperplanet_atlas = {
     object_type = "Atlas",
     key = "exphyperplanet",
